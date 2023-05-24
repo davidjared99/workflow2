@@ -1,0 +1,5 @@
+age 30 
+
+name = "profe rifa"
+
+print("hola " + name +" tienes " + age + "años")
